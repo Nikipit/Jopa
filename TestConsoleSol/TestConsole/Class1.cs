@@ -6,5 +6,9 @@ namespace TestConsole
 {
     class Class1
     {
+        public static void test()
+        {
+            return;
+        }
     }
 }
