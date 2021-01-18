@@ -8,6 +8,9 @@ namespace TestConsole
         {
 
             Console.WriteLine("Jopa!!!");
+            Console.ReadKey();
+            Console.WriteLine("DA!!!");
+            Console.ReadKey();
 
         }
     }
